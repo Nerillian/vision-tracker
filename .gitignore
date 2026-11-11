@@ -1,2 +1,4 @@
 # Build outputs
-build/
+build/*.exe
+actual.txt
+/tracker
